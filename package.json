@@ -1,0 +1,17 @@
+{
+  "name": "dex-ai",
+  "version": "1.0.0",
+  "description": "NodeJs Dex-GPT AI Chabot",
+  "type": "module",
+  "main": "dexgpt.js",
+  "scripts": {
+    "dexgpt": "nodemon dexgpt"
+  },
+  "author": "Jay",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.20",
+    "openai": "^3.1.0"
+  }
+}
