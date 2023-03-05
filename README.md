@@ -10,7 +10,7 @@ it up, then do npm install.
 So, enjoy the commit & share your feedbacks, also if you wanna contribute make sure to build up in the pull request!
 
 ## How to setup project locally
-* Clone the app using ``` https://github.com/jaygen-nexus/DexGPT-Telegram-AI.git```
+* Clone the app using ``` git clone https://github.com/jaygen-nexus/DexGPT-Telegram-AI.git```
 
 ## Running Client Side
 * Redirect into project folder ```cd /<your-project-folder>```
