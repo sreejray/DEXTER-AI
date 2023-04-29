@@ -10,13 +10,13 @@ it up, then do npm install.
 So, enjoy the commit & share your feedbacks, also if you wanna contribute make sure to build up in the pull request!
 
 ## How to setup project locally
-* Clone the app using ``` git clone https://github.com/jaygen-nexus/DexGPT-Telegram-AI.git```
+* Clone the app using ``` git clone https://github.com/jaygen-nexus/DexGPT-Telegram-AI.git ```
 
 ## Running Client Side
-* Redirect into project folder ```cd /<your-project-folder>```
-* Install node modules ```npm install```
-* To run bot simply open terminal & type ```node dexgpt.js```
+* Redirect into project folder ``` cd /<your-project-folder> ```
+* Install node modules ``` npm install ```
+* To run bot simply open terminal & type ``` node dexgpt.js ```
 
 ## Get the OpenAI API & Telegram Token
 * Add your OpenAI Api key to const = openaiapi. (more info at https://openai.com/api/)
-* To create your Telegram bot go to Search for BotFather in Telegram & create your bot through it, then paste that bot token provided to you in telToken section.
+* To create your Telegram bot go to Search for BotFather in Telegram & create your bot through it, then paste that bot token provided to you in telToken section ``` This is a very important step must be done first before starting the whole project ```.
