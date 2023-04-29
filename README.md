@@ -20,3 +20,5 @@ So, enjoy the commit & share your feedbacks, also if you wanna contribute make s
 ## Get the OpenAI API & Telegram Token
 * Add your OpenAI Api key to const = openaiapi. (more info at https://openai.com/api/)
 * To create your Telegram bot go to Search for BotFather in Telegram & create your bot through it, then paste that bot token provided to you in telToken section ``` This is a very important step must be done first before starting the whole project ```.
+
+Project is based on the 2023 basis of AI, OPENAI & Machine Learning!
